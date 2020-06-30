@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../QA-127_creditCard_v0.13.5" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../QA-66_creditCard" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../QA_108_account" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../idea_workspace/QA-91" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../idea_workspace/tm-vault-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../tm-vault-tests_QA-191_v0.23.0" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="878" />
+    <option name="height" value="662" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+</project>
